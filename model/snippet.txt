@@ -1,0 +1,1 @@
+<model-viewer src="MP-412-REX.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.webp" shadow-intensity="1.72" exposure="2"> </model-viewer>
